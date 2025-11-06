@@ -185,6 +185,39 @@ Qi is a modern Lisp dialect focused on flow-oriented programming with:
 - [Qi Language Repository](https://github.com/sanohiro/qi-lang)
 - [Language Specification](https://github.com/sanohiro/qi-lang/blob/master/SPEC.md)
 
+## バージョン管理
+
+このVSCode拡張機能のバージョンは、qi-langのバージョンと同期しています。
+
+- **現在のバージョン**: 0.1.0
+- **対応するqi-langバージョン**: 0.1.0
+- **バージョン管理方式**: 手動同期
+
+### バージョン更新手順
+
+qi-langのバージョンを更新する際は、以下の手順でこの拡張機能のバージョンも更新してください：
+
+1. `package.json`の`version`フィールドを更新
+2. `CHANGELOG.md`に変更内容を記録
+3. 新しいバージョンのタグを作成してプッシュ
+
+例：
+```bash
+# package.jsonのバージョンを更新
+vim package.json  # "version": "0.2.0"に変更
+
+# CHANGELOGを更新
+vim CHANGELOG.md  # 変更内容を追記
+
+# コミットしてタグを作成
+git add package.json CHANGELOG.md
+git commit -m "バージョン0.2.0にアップデート"
+git tag v0.2.0
+git push origin main --tags
+```
+
+詳細な変更履歴は[CHANGELOG.md](CHANGELOG.md)を参照してください。
+
 ## License
 
 MIT OR Apache-2.0

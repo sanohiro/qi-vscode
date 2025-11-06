@@ -2,7 +2,7 @@
   "name": "qi-language",
   "displayName": "Qi Language Support",
   "description": "Complete language support for Qi - A Lisp that flows",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "publisher": "qi-lang",
   "license": "MIT OR Apache-2.0",
   "icon": "icons/icon.png",

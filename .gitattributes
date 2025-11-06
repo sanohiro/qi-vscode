@@ -1,0 +1,4 @@
+# Git属性設定
+
+# Qi言語ファイルの設定
+*.qi linguist-language=Qi

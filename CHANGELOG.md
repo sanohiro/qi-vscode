@@ -52,5 +52,5 @@
 - **リリースタイミング**: qi-langの主要アップデートに合わせてリリース
 - **手動同期**: qi-langのバージョンが更新された場合、package.jsonとこのCHANGELOGを手動で更新
 
-[未リリース]: https://github.com/sanohiro/qi-vscode-new/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/sanohiro/qi-vscode-new/releases/tag/v0.1.0
+[未リリース]: https://github.com/sanohiro/qi-vscode/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/sanohiro/qi-vscode/releases/tag/v0.1.0

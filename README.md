@@ -1,7 +1,5 @@
 # Qi Language VSCode Extension
 
-[English](https://github.com/sanohiro/qi-lang/blob/master/qi-vscode/README.md) | [日本語](https://github.com/sanohiro/qi-lang/blob/master/qi-vscode/README.ja.md)
-
 Complete language support for **Qi - A Lisp that flows**.
 
 ## Features
